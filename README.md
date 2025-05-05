@@ -47,4 +47,7 @@ Discovers hidden files and directories on web servers.
 
 ---
 
+# OUTPUT
+![Image](https://github.com/user-attachments/assets/c00638b4-e00e-4bf5-82da-784cf066a9cc)
+
 **For educational purposes only. Use responsibly!** 
