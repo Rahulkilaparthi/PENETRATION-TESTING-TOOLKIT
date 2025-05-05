@@ -1,4 +1,18 @@
-# Penetration Testing Toolkit
+
+
+#Penetration Testing Toolkit
+
+*COMPANY*: CODTECH IT SOLUTIONS 
+
+*NAME*: Kilaparthi Rahul
+
+*INTERN ID*: :CT06DA36
+
+*DOMAIN*:  Cyber Security & Ethical Hacking
+
+*DURATION*: 6 WEEEKS 
+
+*MENTOR*: NEELA SANTOSH
 
 A modular Python toolkit for basic penetration testing tasks. Includes:
 - Port Scanner
